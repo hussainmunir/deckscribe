@@ -1,0 +1,6 @@
+{
+  "name": "Paper-to-Pitch Deconstructer",
+  "description": "An agentic slide creator and deconstruction workspace that translates dense technical resources or articles into designer presentation decks, structured with individual developer profiles and history storage catalogs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
